@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body {
+  font-family: "Dancing Script", cursive;
+  font-family: "Poppins", sans-serif;
+}
+iframe {
+  position: absolute;
+  top: 0;
+}
+.frame {
+  background-color: rgba(255, 255, 255, 0.125);
+  width: 300px;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  border-radius: 15px;
+  top: 200px;
+  margin: 20px 20px;
+}
+.name {    
+    font-size: 3rem;
+}
+.hello {
+    color: rgb(195, 207, 207);
+}
+.title {
+  color: rgb(195, 207, 207);
+  font-size: 2rem;
+}
+.right-text {
+  margin: auto;
+  color: rgb(195, 207, 207);
+  margin: 10px 10px;
+}
