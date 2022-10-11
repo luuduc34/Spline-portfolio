@@ -2,7 +2,7 @@
 
 ![Screenshot of the homepage](./src/img/screenshot.jpg)
 
-## Language used
+## Language and tech used
 
 HTML, CSS, Spline
 
