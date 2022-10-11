@@ -1,4 +1,4 @@
-# Spline-portfolio
+# WebDev Portfolio
 
 ![Screenshot of the homepage](./src/img/screenshot.jpg)
 
